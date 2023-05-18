@@ -1,0 +1,358 @@
+,Felt,Dato,Naturtype,Art,Type,år,Antal arter i felt
+0,1,8/9/21,overdrev,draphavre,Graminoid,2021,24
+1,1,8/9/21,overdrev,eg_almindelig,Vedplante,2021,24
+2,1,8/9/21,overdrev,fladbaelg_gul,Bredbladet urt,2021,24
+3,1,8/9/21,overdrev,floejlsgraes,Graminoid,2021,24
+4,1,8/9/21,overdrev,hundegraes_almindelig,Graminoid,2021,24
+5,1,8/9/21,overdrev,hvene_almindelig,Graminoid,2021,24
+6,1,8/9/21,overdrev,hvidtjoern_engriflet,Vedplante,2021,24
+7,1,8/9/21,overdrev,padderok_ager,Udenfor kategori,2021,24
+8,1,8/9/21,overdrev,perikon_prikbladet,Bredbladet urt,2021,24
+9,1,8/9/21,overdrev,rose_glathunde,Vedplante,2021,24
+10,1,8/9/21,overdrev,rottehale_knold,Graminoid,2021,24
+11,1,8/9/21,overdrev,slaaen,Vedplante,2021,24
+12,1,8/9/21,overdrev,snerre_gul,Bredbladet urt,2021,24
+13,1,8/9/21,overdrev,syre_almindelig,Bredbladet urt,2021,24
+14,1,8/9/21,overdrev,vejbred_lancet,Bredbladet urt,2021,24
+15,1,8/9/21,overdrev,vikke_muse,Bredbladet urt,2021,24
+16,1,8/9/21,overdrev,kalkved,Vedplante,2021,24
+17,1,8/9/21,overdrev,smaakronet_gedeskaeg,Bredbladet urt,2021,24
+18,1,8/9/21,overdrev,Kloever_hvid,Bredbladet urt,2021,24
+19,1,8/9/21,overdrev,Kloever_roed,Bredbladet urt,2021,24
+20,1,8/9/21,overdrev,svingel_roed ,Graminoid,2021,24
+21,1,8/9/21,overdrev,rapgraes_almindelig,Graminoid,2021,24
+22,1,8/9/21,overdrev,hoensetarm_almindelig,Bredbladet urt,2021,24
+23,1,8/9/21,overdrev,vikke_smalbladet,Bredbladet urt,2021,24
+24,2,8/9/21,overdrev,draphavre,Graminoid,2021,12
+25,2,8/9/21,overdrev,floejlsgraes ,Graminoid,2021,12
+26,2,8/9/21,overdrev,hundegraes_almindelig,Graminoid,2021,12
+27,2,8/9/21,overdrev,hvene_almindelig,Graminoid,2021,12
+28,2,8/9/21,overdrev,hvidtjoern_engriflet,Vedplante,2021,12
+29,2,8/9/21,overdrev,kvik_almindelig,Graminoid,2021,12
+30,2,8/9/21,overdrev,padderok_ager,Udenfor kategori,2021,12
+31,2,8/9/21,overdrev,svingel_roed ,Graminoid,2021,12
+32,2,8/9/21,overdrev,syre_almindelig,Bredbladet urt,2021,12
+33,2,8/9/21,overdrev,tidsel_ager,Bredbladet urt,2021,12
+34,2,8/9/21,overdrev,torskemund_almindelig,Bredbladet urt,2021,12
+35,2,8/9/21,overdrev,vejbred_lancet,Bredbladet urt,2021,12
+36,3,8/14/21,fersk_eng,avre_roed,Bredbladet urt,2021,36
+37,3,8/14/21,fersk_eng,birk_opvaekst,Vedplante,2021,36
+38,3,8/14/21,fersk_eng,brandbaerer_almindelig,Bredbladet urt,2021,36
+39,3,8/14/21,fersk_eng,chara_kransnaalalge,Udenfor kategori,2021,36
+40,3,8/14/21,fersk_eng,draphavre,Graminoid,2021,36
+41,3,8/14/21,fersk_eng,dueurt_laadden,Bredbladet urt,2021,36
+42,3,8/14/21,fersk_eng,fladbaelg_gul,Bredbladet urt,2021,36
+43,3,8/14/21,fersk_eng,floejlsgraes,Graminoid,2021,36
+44,3,8/14/21,fersk_eng,foelfod,Bredbladet urt,2021,36
+45,3,8/14/21,fersk_eng,geum_sp,Bredbladet urt,2021,36
+46,3,8/14/21,fersk_eng,glandskapslet_siv,Graminoid,2021,36
+47,3,8/14/21,fersk_eng,hoest_roedtop,Bredbladet urt,2021,36
+48,3,8/14/21,fersk_eng,humlesneglebaelg,Bredbladet urt,2021,36
+49,3,8/14/21,fersk_eng,hvene_almindelig,Graminoid,2021,36
+50,3,8/14/21,fersk_eng,kloever_hvid,Bredbladet urt,2021,36
+51,3,8/14/21,fersk_eng,kruset_skraeppe,Bredbladet urt,2021,36
+52,3,8/14/21,fersk_eng,kvik_almindelig,Graminoid,2021,36
+53,3,8/14/21,fersk_eng,padderok_ager,Udenfor kategori,2021,36
+54,3,8/14/21,fersk_eng,pileurt_vej,Bredbladet urt,2021,36
+55,3,8/14/21,fersk_eng,ranukel_tigger,Bredbladet urt,2021,36
+56,3,8/14/21,fersk_eng,ranunkel_lav,Bredbladet urt,2021,36
+57,3,8/14/21,fersk_eng,rapgraes_almindelig,Graminoid,2021,36
+58,3,8/14/21,fersk_eng,salix_sp,Vedplante,2021,36
+59,3,8/14/21,fersk_eng,sennep_ager,Bredbladet urt,2021,36
+60,3,8/14/21,fersk_eng,siv_lyse,Graminoid,2021,36
+61,3,8/14/21,fersk_eng,skaerm_vortemaelk,Bredbladet urt,2021,36
+62,3,8/14/21,fersk_eng,snerre_sp,Bredbladet urt,2021,36
+63,3,8/14/21,fersk_eng,svinemaelk_ager,Bredbladet urt,2021,36
+64,3,8/14/21,fersk_eng,tidsel_ager,Bredbladet urt,2021,36
+65,3,8/14/21,fersk_eng,tofroeet_vikke,Bredbladet urt,2021,36
+66,3,8/14/21,fersk_eng,torskemund_liden,Bredbladet urt,2021,36
+67,3,8/14/21,fersk_eng,tudse_siv,Graminoid,2021,36
+68,3,8/14/21,fersk_eng,tykbladet_aerenpris,Bredbladet urt,2021,36
+69,3,8/14/21,fersk_eng,tykskulpet_broendkarse,Bredbladet urt,2021,36
+70,3,8/14/21,fersk_eng,vejbred_glat,Bredbladet urt,2021,36
+71,3,8/14/21,fersk_eng,vejbred_lancet,Bredbladet urt,2021,36
+72,4,8/11/21,fersk_eng,fladbaelg_gul,Bredbladet urt,2021,28
+73,4,8/11/21,fersk_eng,fladstjerne_graesbladet,Bredbladet urt,2021,28
+74,4,8/11/21,fersk_eng,floejlsgraes,Graminoid,2021,28
+75,4,8/11/21,fersk_eng,hvene_almindelig,Graminoid,2021,28
+76,4,8/11/21,fersk_eng,iris_sp,Bredbladet urt,2021,28
+77,4,8/11/21,fersk_eng,mjoedurt_almindelig,Bredbladet urt,2021,28
+78,4,8/11/21,fersk_eng,nellikerod_eng,Bredbladet urt,2021,28
+79,4,8/11/21,fersk_eng,perikon_kantet,Bredbladet urt,2021,28
+80,4,8/11/21,fersk_eng,pileurt_vand,Bredbladet urt,2021,28
+81,4,8/11/21,fersk_eng,ranuknel_bidende,Bredbladet urt,2021,28
+82,4,8/11/21,fersk_eng,rapgraes_eng,Graminoid,2021,28
+83,4,8/11/21,fersk_eng,rottehale_eng,Graminoid,2021,28
+84,4,8/11/21,fersk_eng,raevehale_eng,Graminoid,2021,28
+85,4,8/11/21,fersk_eng,siv_lyse,Graminoid,2021,28
+86,4,8/11/21,fersk_eng,skraeppe_kruset,Bredbladet urt,2021,28
+87,4,8/11/21,fersk_eng,svingel_roed,Graminoid,2021,28
+88,4,8/11/21,fersk_eng,syre_almindelig,Bredbladet urt,2021,28
+89,4,8/11/21,fersk_eng,vejbred_lancet,Bredbladet urt,2021,28
+90,4,8/11/21,fersk_eng,potentil_gaase,Bredbladet urt,2021,28
+91,4,8/11/21,fersk_eng,agermaane_almindelig,Bredbladet urt,2021,28
+92,4,8/11/21,fersk_eng,pastinak,Bredbladet urt,2021,28
+93,4,8/11/21,fersk_eng,tofroeet_vikke,Bredbladet urt,2021,28
+94,4,8/11/21,fersk_eng,maelkeboette,Bredbladet urt,2021,28
+95,4,8/11/21,fersk_eng,musse_vikke,Bredbladet urt,2021,28
+96,4,8/11/21,fersk_eng,kløver_hvid,Bredbladet urt,2021,28
+97,4,8/11/21,fersk_eng,kløver_rød,Bredbladet urt,2021,28
+98,4,8/11/21,fersk_eng,hundegræs_almindelig,Graminoid,2021,28
+99,4,8/11/21,fersk_eng,glat_dueurt,Bredbladet urt,2021,28
+100,5,8/11/21,overdrev,agermaane_almindelig,Bredbladet urt,2021,24
+101,5,8/11/21,overdrev,draphavre,Graminoid,2021,24
+102,5,8/11/21,overdrev,fladbaelg_gul,Bredbladet urt,2021,24
+103,5,8/11/21,overdrev,floelsgraes,Graminoid,2021,24
+104,5,8/11/21,overdrev,hundegraes_almindelig,Graminoid,2021,24
+105,5,8/11/21,overdrev,hvene_almindelig,Graminoid,2021,24
+106,5,8/11/21,overdrev,hvidtjoern_engriflet,Vedplante,2021,24
+107,5,8/11/21,overdrev,kloever_bugtet,Bredbladet urt,2021,24
+108,5,8/11/21,overdrev,kloever_hvid,Bredbladet urt,2021,24
+109,5,8/11/21,overdrev,kloever_roed,Bredbladet urt,2021,24
+110,5,8/11/21,overdrev,kvik_almindelig,Graminoid,2021,24
+111,5,8/11/21,overdrev,perikon_prikbladet,Bredbladet urt,2021,24
+112,5,8/11/21,overdrev,perikon_kantet,Bredbladet urt,2021,24
+113,5,8/11/21,overdrev,ranukel_bidende,Bredbladet urt,2021,24
+114,5,8/11/21,overdrev,snerre_gul,Bredbladet urt,2021,24
+115,5,8/11/21,overdrev,svingel_roed,Graminoid,2021,24
+116,5,8/11/21,overdrev,syre_almindelig,Bredbladet urt,2021,24
+117,5,8/11/21,overdrev,vikke_muse,Bredbladet urt,2021,24
+118,5,8/11/21,overdrev,mjoedurt_almindelig,Bredbladet urt,2021,24
+119,5,8/11/21,overdrev,gyldenris_sildig,Bredbladet urt,2021,24
+120,5,8/11/21,overdrev,skraeppe_kruset,Bredbladet urt,2021,24
+121,5,8/11/21,overdrev,hanekro_skov,Bredbladet urt,2021,24
+122,5,8/11/21,overdrev,vejpileurt_almindelig,Bredbladet urt,2021,24
+123,5,8/11/21,overdrev,vikke_tofroeet,Bredbladet urt,2021,24
+124,6,8/10/21,fersk_eng,floejsgraes ,Graminoid,2021,17
+125,6,8/10/21,fersk_eng,mjoedurt_almindelig,Bredbladet urt,2021,17
+126,6,8/10/21,fersk_eng,naelde_stor,Bredbladet urt,2021,17
+127,6,8/10/21,fersk_eng,snerre_burre,Bredbladet urt,2021,17
+128,6,8/10/21,fersk_eng,nellikerod_feber,Bredbladet urt,2021,17
+129,6,8/10/21,fersk_eng,dueurt_glat,Bredbladet urt,2021,17
+130,6,8/10/21,fersk_eng,eg_almindelig,Vedplante,2021,17
+131,6,8/10/21,fersk_eng,hvidtjoern_engriflet,Vedplante,2021,17
+132,6,8/10/21,fersk_eng,dueurt_laadden,Bredbladet urt,2021,17
+133,6,8/10/21,fersk_eng,dueurt_kirtel,Bredbladet urt,2021,17
+134,6,8/10/21,fersk_eng,hunderose_glat,Vedplante,2021,17
+135,6,8/10/21,fersk_eng,kornel_hvid,Vedplante,2021,17
+136,6,8/10/21,fersk_eng,mangeloev_almindelig,Udenfor kategori,2021,17
+137,6,8/10/21,fersk_eng,mangeloev_bredbladet,Udenfor kategori,2021,17
+138,6,8/10/21,fersk_eng,hanekro_almindelig,Bredbladet urt,2021,17
+139,6,8/10/21,fersk_eng,draphavre,Graminoid,2021,17
+140,6,8/10/21,fersk_eng,kvik_almindelig,Graminoid,2021,17
+141,7,8/10/21,skov,ask,Vedplante,2021,13
+142,7,8/10/21,skov,birk_vorte,Vedplante,2021,13
+143,7,8/10/21,skov,eg_almindelig,Vedplante,2021,13
+144,7,8/10/21,skov,hassel,Vedplante,2021,13
+145,7,8/10/21,skov,hvidtjoern_engriflet,Vedplante,2021,13
+146,7,8/10/21,skov,mangeloev_almindelig,Udenfor kategori,2021,13
+147,7,8/10/21,skov,nellikerod_feber,Bredbladet urt,2021,13
+148,7,8/10/21,skov,roen_almindelig,Vedplante,2021,13
+149,7,8/10/21,skov,gedeblad_dunet,Vedplante,2021,13
+150,7,8/10/21,skov,kornel_hvid,Vedplante,2021,13
+151,7,8/10/21,skov,ribs_fjeld,Vedplante,2021,13
+152,7,8/10/21,skov,kristtorn,Vedplante,2021,13
+153,7,8/10/21,skov,fuglekirsebaer,Vedplante,2021,13
+154,8,8/19/21,overdrev,agermaane_almindelig,Bredbladet urt,2021,28
+155,8,8/19/21,overdrev,ask,Vedplante,2021,28
+156,8,8/19/21,overdrev,draphavre,Graminoid,2021,28
+157,8,8/19/21,overdrev,fladbaelg_gul,Bredbladet urt,2021,28
+158,8,8/19/21,overdrev,floejlsgraes,Graminoid,2021,28
+159,8,8/19/21,overdrev,hundegraes_almindelig,Graminoid,2021,28
+160,8,8/19/21,overdrev,hvene_almindelig,Graminoid,2021,28
+161,8,8/19/21,overdrev,hvidtjoern_engriflet,Vedplante,2021,28
+162,8,8/19/21,overdrev,kaellingetand_almindelig,Bredbladet urt,2021,28
+163,8,8/19/21,overdrev,loeg_sp,Bredbladet urt,2021,28
+164,8,8/19/21,overdrev,perikon_prikbladet,Bredbladet urt,2021,28
+165,8,8/19/21,overdrev,rapgraes_eng,Graminoid,2021,28
+166,8,8/19/21,overdrev,rose_glathunde,Vedplante,2021,28
+167,8,8/19/21,overdrev,rottehale_eng,Graminoid,2021,28
+168,8,8/19/21,overdrev,snerle_ager,Bredbladet urt,2021,28
+169,8,8/19/21,overdrev,snerre_gul,Bredbladet urt,2021,28
+170,8,8/19/21,overdrev,snerre_hvid,Bredbladet urt,2021,28
+171,8,8/19/21,overdrev,svingel_roed,Graminoid,2021,28
+172,8,8/19/21,overdrev,syre_almindelig,Bredbladet urt,2021,28
+173,8,8/19/21,overdrev,tidsel_ager,Bredbladet urt,2021,28
+174,8,8/19/21,overdrev,vejbred_lancet,Bredbladet urt,2021,28
+175,8,8/19/21,overdrev,vikke_muse,Bredbladet urt,2021,28
+176,8,8/19/21,overdrev,fuglekirsebaer,Vedplante,2021,28
+177,8,8/19/21,overdrev,eg_almindelig,Vedplante,2021,28
+178,8,8/19/21,overdrev,kornel_roed,Vedplante,2021,28
+179,8,8/19/21,overdrev,knoldet_brunrod,Bredbladet urt,2021,28
+180,8,8/19/21,overdrev,smaabladet_gedeskaeg,Bredbladet urt,2021,28
+181,8,8/19/21,overdrev,ranunkel_bidende,Bredbladet urt,2021,28
+182,9,8/16/21,overdrev,draphavre,Graminoid,2021,29
+183,9,8/16/21,overdrev,floejlsgraes ,Graminoid,2021,29
+184,9,8/16/21,overdrev,hundegraes_almindelig,Graminoid,2021,29
+185,9,8/16/21,overdrev,hvene_almindelig,Graminoid,2021,29
+186,9,8/16/21,overdrev,hvidtjoern_engriflet,Vedplante,2021,29
+187,9,8/16/21,overdrev,maelkeboette,Bredbladet urt,2021,29
+188,9,8/16/21,overdrev,nellikerod_feber,Bredbladet urt,2021,29
+189,9,8/16/21,overdrev,rapgraes_lund,Graminoid,2021,29
+190,9,8/16/21,overdrev,rottehale_eng,Graminoid,2021,29
+191,9,8/16/21,overdrev,rottehale_knold,Graminoid,2021,29
+192,9,8/16/21,overdrev,snerre_sp,Bredbladet urt,2021,29
+193,9,8/16/21,overdrev,svingel_roed,Graminoid,2021,29
+194,9,8/16/21,overdrev,ask,Vedplante,2021,29
+195,9,8/16/21,overdrev,kornel_hvid,Vedplante,2021,29
+196,9,8/16/21,overdrev,kornel_roed,Vedplante,2021,29
+197,9,8/16/21,overdrev,gedeblad_dunet,Vedplante,2021,29
+198,9,8/16/21,overdrev,roen_almindelig,Vedplante,2021,29
+199,9,8/16/21,overdrev,jordbaer_skov,Bredbladet urt,2021,29
+200,9,8/16/21,overdrev,fuglekirsebaer,Vedplante,2021,29
+201,9,8/16/21,overdrev,eg_almindelig,Vedplante,2021,29
+202,9,8/16/21,overdrev,ranunkel_bidende,Bredbladet urt,2021,29
+203,9,8/16/21,overdrev,rose_glansbladet,Vedplante,2021,29
+204,9,8/16/21,overdrev,lind_spidsbladet,Vedplante,2021,29
+205,9,8/16/21,overdrev,haeg_almindelig,Vedplante,2021,29
+206,9,8/16/21,overdrev,naver,Vedplante,2021,29
+207,9,8/16/21,overdrev,perikon_prikbladet,Bredbladet urt,2021,29
+208,9,8/16/21,overdrev,lancet_vejbred,Bredbladet urt,2021,29
+209,9,8/16/21,overdrev,kastanje_aegte,Vedplante,2021,29
+210,9,8/16/21,overdrev,prunus_domestica,Vedplante,2021,29
+211,10,8/19/20,mose_kaer,star_nikkende,Graminoid,2021,2
+212,10,8/19/20,mose_kaer,pileurt_vand,Bredbladet urt,2021,2
+213,11,8/21/21,mose_kaer,fredloes_almindelig,Bredbladet urt,2021,5
+214,11,8/21/21,mose_kaer,roerhvene_eng,Graminoid,2021,5
+215,11,8/21/21,mose_kaer,tagroer,Graminoid,2021,5
+216,11,8/21/21,mose_kaer,kattehale,Bredbladet urt,2021,5
+217,11,8/21/21,mose_kaer,mjoedurt_almindelig,Bredbladet urt,2021,5
+218,12,8/21/21,mose_kaer,dueurt_laadden,Bredbladet urt,2021,7
+219,12,8/21/21,mose_kaer,fredloes_almindelig,Bredbladet urt,2021,7
+220,12,8/21/21,mose_kaer,mjoedurt_almindelig,Bredbladet urt,2021,7
+221,12,8/21/21,mose_kaer,pil_graa,Vedplante,2021,7
+222,12,8/21/21,mose_kaer,roerhvene_eng,Graminoid,2021,7
+223,12,8/21/21,mose_kaer,tagroer,Graminoid,2021,7
+224,12,8/21/21,mose_kaer,star_tykakset,Graminoid,2021,7
+225,13,8/10/21,skov,ask,Vedplante,2021,14
+226,13,8/10/21,skov,avnboeg,Vedplante,2021,14
+227,13,8/10/21,skov,elm_skov,Vedplante,2021,14
+228,13,8/10/21,skov,hvidtjoern_almindelig,Vedplante,2021,14
+229,13,8/10/21,skov,hvidtjoern_engriflet,Vedplante,2021,14
+230,13,8/10/21,skov,mangeloev_almindelig,Udenfor kategori,2021,14
+231,13,8/10/21,skov,nellikerod_feber ,Bredbladet urt,2021,14
+232,13,8/10/21,skov,gedeblad_dunet,Vedplante,2021,14
+233,13,8/10/21,skov,kalkved,Vedplante,2021,14
+234,13,8/10/21,skov,kristtorn,Vedplante,2021,14
+235,13,8/10/21,skov,lind_smaabladet,Vedplante,2021,14
+236,13,8/10/21,skov,spidsloen,Vedplante,2021,14
+237,13,8/10/21,skov,rose_sp,Vedplante,2021,14
+238,13,8/10/21,skov,liguster,Vedplante,2021,14
+239,14,8/10/21,mose_kaer,mjoedurt_almindelig,Bredbladet urt,2021,8
+240,14,8/10/21,mose_kaer,tagroer,Graminoid,2021,8
+241,14,8/10/21,mose_kaer,star_sp,Graminoid,2021,8
+242,14,8/10/21,mose_kaer,kornel_hvid,Vedplante,2021,8
+243,14,8/10/21,mose_kaer,iris_sp,Bredbladet urt,2021,8
+244,14,8/10/21,mose_kaer,eg_almindelig,Vedplante,2021,8
+245,14,8/10/21,mose_kaer,fredloes_almindelig ,Bredbladet urt,2021,8
+246,14,8/10/21,mose_kaer,pil_graa,Vedplante,2021,8
+247,15,8/19/21,overdrev,draphavre,Graminoid,2021,25
+248,15,8/19/21,overdrev,rapgræs_almindelig,Graminoid,2021,25
+249,15,8/19/21,overdrev,eg_almindelig,Vedplante,2021,25
+250,15,8/19/21,overdrev,fladbaelg_gul,Bredbladet urt,2021,25
+251,15,8/19/21,overdrev,fladstjerne_graesbladet,Bredbladet urt,2021,25
+252,15,8/19/21,overdrev,floejlsgraes,Graminoid,2021,25
+253,15,8/19/21,overdrev,hundegraes_almindelig,Graminoid,2021,25
+254,15,8/19/21,overdrev,hvene_almindelig,Graminoid,2021,25
+255,15,8/19/21,overdrev,hvidtjoern_engriflet,Bredbladet urt,2021,25
+256,15,8/19/21,overdrev,kloever_roed,Bredbladet urt,2021,25
+257,15,8/19/21,overdrev,perikon_prikbladet,Bredbladet urt,2021,25
+258,15,8/19/21,overdrev,rottehale_eng,Graminoid,2021,25
+259,15,8/19/21,overdrev,lind_smalbladet ,Vedplante,2021,25
+260,15,8/19/21,overdrev,vikke_muse,Bredbladet urt,2021,25
+261,15,8/19/21,overdrev,agermaane_almindelig,Bredbladet urt,2021,25
+262,15,8/19/21,overdrev,svingel_roed,Graminoid,2021,25
+263,15,8/19/21,overdrev,syre_almindelig,Bredbladet urt,2021,25
+264,15,8/19/21,overdrev,vejbred_lancet,Bredbladet urt,2021,25
+265,15,8/19/21,overdrev,ranunkel_bidende,Bredbladet urt,2021,25
+266,15,8/19/21,overdrev,ask,Vedplante,2021,25
+267,15,8/19/21,overdrev,hoest_roedtop,Bredbladet urt,2021,25
+268,15,8/19/21,overdrev,geum_sp,Bredbladet urt,2021,25
+269,15,8/19/21,overdrev,slaaen,Vedplante,2021,25
+270,15,8/19/21,overdrev,gul_snerre,Bredbladet urt,2021,25
+271,15,8/19/21,overdrev,ager_tidsel,Bredbladet urt,2021,25
+272,16,8/16/21,mose_kaer,dueurt_laadden,Bredbladet urt,2021,9
+273,16,8/16/21,mose_kaer,pil_graa,Vedplante,2021,9
+274,16,8/16/21,mose_kaer,roerhvene_eng,Graminoid,2021,9
+275,16,8/16/21,mose_kaer,tagroer,Graminoid,2021,9
+276,16,8/16/21,mose_kaer,kornel_hvid,Vedplante,2021,9
+277,16,8/16/21,mose_kaer,loegkarse,Bredbladet urt,2021,9
+278,16,8/16/21,mose_kaer,vandroellikke,Bredbladet urt,2021,9
+279,16,8/16/21,mose_kaer,aakande_hvid,Bredbladet urt,2021,9
+280,16,8/16/21,mose_kaer,geum_sp,Bredbladet urt,2021,9
+281,17,8/16/21,mose_kaer,dueurt_laadden,Bredbladet urt,2021,14
+282,17,8/16/21,mose_kaer,fredloes_almindelig,Bredbladet urt,2021,14
+283,17,8/16/21,mose_kaer,mjoedurt_almindelig,Bredbladet urt,2021,14
+284,17,8/16/21,mose_kaer,natskygge_bittersoed,Bredbladet urt,2021,14
+285,17,8/16/21,mose_kaer,pil_graa,Vedplante,2021,14
+286,17,8/16/21,mose_kaer,pileurt_vand,Bredbladet urt,2021,14
+287,17,8/16/21,mose_kaer,roerhvene_eng,Graminoid,2021,14
+288,17,8/16/21,mose_kaer,star_knippe,Graminoid,2021,14
+289,17,8/16/21,mose_kaer,star_kaer,Graminoid,2021,14
+290,17,8/16/21,mose_kaer,tagroer,Graminoid,2021,14
+291,17,8/16/21,mose_kaer,loeg_sp,Bredbladet urt,2021,14
+292,17,8/16/21,mose_kaer,iris_sp,Bredbladet urt,2021,14
+293,17,8/16/21,mose_kaer,kattehale,Bredbladet urt,2021,14
+294,17,8/16/21,mose_kaer,vikke_muse,Bredbladet urt,2021,14
+295,18,8/16/21,mose_kaer,dueurt_laadden,Bredbladet urt,2021,9
+296,18,8/16/21,mose_kaer,dunhammer_bredbladet ,Graminoid,2021,9
+297,18,8/16/21,mose_kaer,kattehale,Bredbladet urt,2021,9
+298,18,8/16/21,mose_kaer,pileurt_vand,Bredbladet urt,2021,9
+299,18,8/16/21,mose_kaer,roerhvene_eng,Graminoid,2021,9
+300,18,8/16/21,mose_kaer,star_knippe,Graminoid,2021,9
+301,18,8/16/21,mose_kaer,tagroer,Graminoid,2021,9
+302,18,8/16/21,mose_kaer,ranukel_tigger,Bredbladet urt,2021,9
+303,18,8/16/21,mose_kaer,dueurt_glat,Bredbladet urt,2021,9
+304,19,8/14/21,mose_kaer,dueurt_laadden,Bredbladet urt,2021,14
+305,19,8/14/21,mose_kaer,fredloes_almindelig,Bredbladet urt,2021,14
+306,19,8/14/21,mose_kaer,mjoedurt_almindelig,Bredbladet urt,2021,14
+307,19,8/14/21,mose_kaer,rapgraes_almindelig,Graminoid,2021,14
+308,19,8/14/21,mose_kaer,roerhvene_eng,Graminoid,2021,14
+309,19,8/14/21,mose_kaer,star_knippe,Graminoid,2021,14
+310,19,8/14/21,mose_kaer,tagroer,Graminoid,2021,14
+311,19,8/14/21,mose_kaer,gyldenris_slidig,Bredbladet urt,2021,14
+312,19,8/14/21,mose_kaer,aakande_hvid,Bredbladet urt,2021,14
+313,19,8/14/21,mose_kaer,el_roed,Vedplante,2021,14
+314,19,8/14/21,mose_kaer,nellikerod_feber,Bredbladet urt,2021,14
+315,19,8/14/21,mose_kaer,star_tykakset,Graminoid,2021,14
+316,19,8/14/21,mose_kaer,dunhammer_smalbladet,Graminoid,2021,14
+317,19,8/14/21,mose_kaer,hundegraes_almindelig,Graminoid,2021,14
+318,20,8/11/21,mose_kaer,dueurt_laadden,Bredbladet urt,2021,14
+319,20,8/11/21,mose_kaer,mjoedurt_almindelig,Bredbladet urt,2021,14
+320,20,8/11/21,mose_kaer,tagroer,Graminoid,2021,14
+321,20,8/11/21,mose_kaer,kornel_hvid,Vedplante,2021,14
+322,20,8/11/21,mose_kaer,kornel_roed,Vedplante,2021,14
+323,20,8/11/21,mose_kaer,slaaen,Vedplante,2021,14
+324,20,8/11/21,mose_kaer,gedeblad_dunet,Vedplante,2021,14
+325,20,8/11/21,mose_kaer,hanekro_skov,Bredbladet urt,2021,14
+326,20,8/11/21,mose_kaer,hyld_almindelig,Vedplante,2021,14
+327,20,8/11/21,mose_kaer,liguster,Vedplante,2021,14
+328,20,8/11/21,mose_kaer,roerhvene_eng,Graminoid,2021,14
+329,20,8/11/21,mose_kaer,nellikerod_eng,Graminoid,2021,14
+330,20,8/11/21,mose_kaer,naelde_stor,Bredbladet urt,2021,14
+331,20,8/11/21,mose_kaer,loeg_sp,Bredbladet urt,2021,14
+332,21,8/10/21,skov,ahorn,Vedplante,2021,15
+333,21,8/10/21,skov,ask,Vedplante,2021,15
+334,21,8/10/21,skov,hvidtjørn_engriflet,Vedplante,2021,15
+335,21,8/10/21,skov,hyld_almindelig,Vedplante,2021,15
+336,21,8/10/21,skov,løn_spids,Vedplante,2021,15
+337,21,8/10/21,skov,nellikerod_feber,Bredbladet urt,2021,15
+338,21,8/10/21,skov,dunet_steffensurt,Bredbladet urt,2021,15
+339,21,8/10/21,skov,poppel_sp,Vedplante,2021,15
+340,21,8/10/21,skov,jordbør_skov,Bredbladet urt,2021,15
+341,21,8/10/21,skov,kornel_hvid,Vedplante,2021,15
+342,21,8/10/21,skov,gedeblad_dunet,Vedplante,2021,15
+343,21,8/10/21,skov,liguster,Vedplante,2021,15
+344,21,8/10/21,skov,rose_sp,Vedplante,2021,15
+345,21,8/10/21,skov,lin_småbladet,Vedplante,2021,15
+346,21,8/10/21,skov,løgkarse,Bredbladet urt,2021,15
+347,22,8/21/21,skov,ask,Vedplante,2021,10
+348,22,8/21/21,skov,eg_almindelig,Vedplante,2021,10
+349,22,8/21/21,skov,hassel,Vedplante,2021,10
+350,22,8/21/21,skov,hvidtjoern_engriflet,Vedplante,2021,10
+351,22,8/21/21,skov,hvidtjoern_almindelig,Vedplante,2021,10
+352,22,8/21/21,skov,hyld_almindelig,Vedplante,2021,10
+353,22,8/21/21,skov,roen_almindelig,Vedplante,2021,10
+354,22,8/21/21,skov,gedeblad_dunet,Vedplante,2021,10
+355,22,8/21/21,skov,lind_smaabladet,Vedplante,2021,10
+356,22,8/21/21,skov,aegte_kastanje,Vedplante,2021,10
